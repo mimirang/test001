@@ -1,0 +1,23 @@
+{
+  "name": "mimirang-test001",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mimirang/test001.git"
+  },
+  "keywords": [
+    "mimirang",
+    "test"
+  ],
+  "author": "mimirang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mimirang/test001/issues"
+  },
+  "homepage": "https://github.com/mimirang/test001#readme"
+}
